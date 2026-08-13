@@ -1,0 +1,446 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ethers-reth",
+          "description": ", an Ethers-rs-aware middleware by Sorella Labs for accessing Reth state directly (Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-18T18:44:41Z",
+            "owner": "SorellaLabs",
+            "repo": "ethers-reth",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reth Alphanet",
+          "description": ", OP-Stack compatible testnet rollup explicitly designed for Ethereum R&D (blog post, Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-11-24T00:28:27Z",
+            "owner": "paradigmxyz",
+            "repo": "alphanet",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "Development Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NodeDB",
+          "description": ", updates revm's database directly from Reth's database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-05-26T01:12:00Z",
+            "owner": "Zacholme7",
+            "repo": "NodeDB",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reth-private-transaction",
+          "description": ", implementation that punches straight through to the top three block builders",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-15T01:56:11Z",
+            "owner": "Quertyy",
+            "repo": "reth-private-transaction",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rethdb-dexsync",
+          "description": ", retrieve CFMM pool state directly from Reth's database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-20T17:49:16Z",
+            "owner": "cakevm",
+            "repo": "rethdb-dexsync",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alloy-reth-provider",
+          "description": ", retrieve state from a remote node via Alloy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-16T16:10:54Z",
+            "owner": "cakevm",
+            "repo": "alloy-reth-provider",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "MEV"
+    },
+    {
+      "description": "An Execution Extension (ExEx) is code that runs in-process with Reth that has access to reorg-aware chain state. Consult the official documentation for more details.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loom-exex",
+          "description": ", an ExEx for backrunning (part of the larger loom project)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-26T10:51:30Z",
+            "owner": "dexloom",
+            "repo": "loom",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reth-exex-examples",
+          "description": ", an official repository of example ExEx implementations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-29T14:33:23Z",
+            "owner": "paradigmxyz",
+            "repo": "reth-exex-examples",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadow-reth",
+          "description": ", an implementation of the Shadow RPC as an ExEx (blog post)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-16T09:22:37Z",
+            "owner": "shadow-hq",
+            "repo": "shadow-reth",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exex-indexer",
+          "description": ", an ExEx providing blockchain indexing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-18T16:42:33Z",
+            "owner": "gibz104",
+            "repo": "Rethix",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flare",
+          "description": ", an ExEx that indexes Arbitrum sequencer batches (Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-05T22:43:39Z",
+            "owner": "rauljordan",
+            "repo": "flare",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reth-exex-plugin",
+          "description": ", an ExEx facilitating dynamic code injection via shared libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-10-12T13:30:31Z",
+            "owner": "0xurb",
+            "repo": "reth-exex-plugin",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyperlane-exex",
+          "description": ", a PoC Hyperlane validator built as an ExEx (Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-09T16:24:17Z",
+            "owner": "aroralanuk",
+            "repo": "hyperlane-exex",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reth-exex-walltime",
+          "description": ", an ExEx that provides compares block time (proposer clock) with wall time (local clock)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-05T21:39:36Z",
+            "owner": "transmissions11",
+            "repo": "reth-exex-walltime",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wvm-reth",
+          "description": ", a BigQuery ExEx (blog post)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-13T12:09:57Z",
+            "owner": "weaveVM",
+            "repo": "wvm-reth",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exex-templates",
+          "description": ", ExExes from the Load Network team",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-06-02T14:22:50Z",
+            "owner": "weaveVM",
+            "repo": "exex-templates",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exex-nursery",
+          "description": ", a collection of ExExes that do interesting things",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-20T23:51:55Z",
+            "owner": "jmcph4",
+            "repo": "exex-nursery",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Execution Extensions (ExExes)"
+    },
+    {
+      "description": "A crawler (in the Ethereum context) is a program that indexes and gathers various metrics on different nodes within a P2P network (either at the execution or consensus layer).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reconnaissance",
+          "description": ", a proxy EL node using Reth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-08-12T02:13:35Z",
+            "owner": "Will-Smith11",
+            "repo": "reconnaissance",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reth-crawler",
+          "description": ", a crawler for EL nodes (Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-03T16:17:03Z",
+            "owner": "Keep-Reth-Strange",
+            "repo": "reth-crawler",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Crawlers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pevm",
+          "description": ", a massively-parallelised EVM implementation by RISE Labs that is explicitly compatible with Reth (blog post, Tweet)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T07:48:29Z",
+            "owner": "risechain",
+            "repo": "pevm",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seismic-reth",
+          "description": ", node software for Seismic, the encrypted blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T19:15:37Z",
+            "owner": "SeismicSystems",
+            "repo": "seismic-reth",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kakarot zkEVM",
+          "description": ", a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-01-08T09:10:22Z",
+            "owner": "kkrt-labs",
+            "repo": "kakarot-rpc",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grevm",
+          "description": ", parallel EVM runtime based on BlockSTM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T08:58:47Z",
+            "owner": "Galxe",
+            "repo": "grevm",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rem-poc",
+          "description": ", an integration with the Malachite BFT consensus engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-05T17:25:37Z",
+            "owner": "adizere",
+            "repo": "rem-poc",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reva",
+          "description": ", minimal ZKP execution in Reth",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-02T09:27:15Z",
+            "owner": "lita-xyz",
+            "repo": "reva",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sova-reth",
+          "description": ", Reth but for Bitcoin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-11-04T15:43:55Z",
+            "owner": "SovaNetwork",
+            "repo": "sova-reth",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sp1-reth",
+          "description": ", a zkEVM PoC by Succint Labs demonstrating transaction costs to the order of $0.01 USD atop Reth",
+          "children": []
+        }
+      ],
+      "title": "Layer 2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reth-payload-validator",
+          "description": ", a RPC extension of Reth by the Ultra Sound Money relay that implements rapid block validation of builder submissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-13T16:41:47Z",
+            "owner": "ultrasoundmoney",
+            "repo": "reth-payload-validator",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openvm-reth-benchmark",
+          "description": ", a set of benchmarks for Reth within the OpenVM framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:10:58Z",
+            "owner": "axiom-crypto",
+            "repo": "openvm-eth",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:50:23.179Z",
+    "original_repository": "jmcph4/awesome-reth",
+    "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
+    "enhanced_repository": "enhansome/enhansome-reth",
+    "enhanced_repository_description": null,
+    "title": "awesome-reth with stars"
+  }
+}
