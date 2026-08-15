@@ -315,7 +315,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T18:57:02Z",
+            "last_commit": "2026-08-14T11:47:14Z",
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T23:30:21Z",
+            "last_commit": "2026-08-14T19:47:22Z",
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:46:15.287Z",
+    "last_updated": "2026-08-15T09:11:28.257Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
     "enhanced_repository": "enhansome/enhansome-reth",
