@@ -110,7 +110,7 @@
             "last_commit": "2025-07-26T10:51:30Z",
             "owner": "dexloom",
             "repo": "loom",
-            "stars": 333
+            "stars": 332
           }
         },
         {
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:12:42.263Z",
+    "last_updated": "2026-08-17T09:25:13.913Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
     "enhanced_repository": "enhansome/enhansome-reth",
