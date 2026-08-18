@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,739 | 🐛 217 | 🌐 Rust | 📅 2026-08-17
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,741 | 🐛 213 | 🌐 Rust | 📅 2026-08-17
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,739 | 🐛 217 | 🌐 Rust | 📅 2026-08-17
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,741 | 🐛 213 | 🌐 Rust | 📅 2026-08-17
 
 ## Development Tools
 
@@ -18,7 +18,7 @@
 
 ## MEV
 
-* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,221 | 🐛 96 | 🌐 Rust | 📅 2026-08-14's database directly from Reth's database
+* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,221 | 🐛 85 | 🌐 Rust | 📅 2026-08-17's database directly from Reth's database
 * [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2024-12-15, `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 * [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2024-10-20, retrieve CFMM pool state directly from Reth's database
 * [alloy-reth-provider](https://github.com/cakevm/alloy-reth-provider) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2025-07-16, retrieve state from a remote node via Alloy
@@ -57,13 +57,13 @@ An indexer (in the Ethereum context) takes data directly from the blockchain and
 
 Publications using or mentioning Reth.
 
-* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,437 | 🐛 85 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
+* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,438 | 🐛 85 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
 * [Diving into the Reth p2p stack](https://research.chainbound.io/diving-into-the-reth-p2p-stack), a blog post by [Chainbound](https://chainbound.io) that details the Reth P2P stack.
 
 ## Layer 2
 
-* [pevm](https://github.com/risechain/pevm) ⭐ 355 | 🐛 64 | 🌐 Rust | 📅 2026-08-05, a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
+* [pevm](https://github.com/risechain/pevm) ⭐ 356 | 🐛 65 | 🌐 Rust | 📅 2026-08-05, a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
 * [seismic-reth](https://github.com/SeismicSystems/seismic-reth) ⭐ 143 | 🐛 43 | 🌐 Rust | 📅 2026-08-14, node software for [Seismic](https://www.seismic.systems), the encrypted blockchain
 * [Kakarot zkEVM](https://github.com/kkrt-labs/kakarot-rpc) ⚠️ Archived, a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth
 * [grevm](https://github.com/Galxe/grevm) ⭐ 38 | 🐛 8 | 🌐 Rust | 📅 2026-08-05, parallel EVM runtime based on BlockSTM
@@ -90,8 +90,8 @@ Publications using or mentioning Reth.
 ## Miscellaneous
 
 * [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator) ⭐ 43 | 🐛 8 | 🌐 Rust | 📅 2024-12-13, a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
-* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 12 | 🌐 Rust | 📅 2026-08-15, a set of benchmarks for Reth within the OpenVM framework
+* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 12 | 🌐 Rust | 📅 2026-08-17, a set of benchmarks for Reth within the OpenVM framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
