@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640577736,
             "language": "Rust",
             "last_commit": "2023-10-18T18:44:41Z",
             "owner": "SorellaLabs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 765376485,
             "language": "Rust",
             "last_commit": "2024-11-24T00:28:27Z",
             "owner": "paradigmxyz",
@@ -35,7 +37,7 @@
       "title": "Development Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 875804525,
             "language": "Rust",
             "last_commit": "2025-05-26T01:12:00Z",
             "owner": "Zacholme7",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 903566531,
             "language": "Rust",
             "last_commit": "2024-12-15T01:56:11Z",
             "owner": "Quertyy",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862201722,
             "language": "Rust",
             "last_commit": "2024-10-20T17:49:16Z",
             "owner": "cakevm",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 933143586,
             "language": "Rust",
             "last_commit": "2025-07-16T16:10:54Z",
             "owner": "cakevm",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794569703,
             "language": "Rust",
             "last_commit": "2025-07-26T10:51:30Z",
             "owner": "dexloom",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819878351,
             "language": "Rust",
             "last_commit": "2026-04-29T14:33:23Z",
             "owner": "paradigmxyz",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 804428398,
             "language": "Rust",
             "last_commit": "2024-12-16T09:22:37Z",
             "owner": "shadow-hq",
@@ -148,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 831892127,
             "language": "Rust",
             "last_commit": "2025-11-18T16:42:33Z",
             "owner": "gibz104",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796044443,
             "language": "Rust",
             "last_commit": "2024-05-05T22:43:39Z",
             "owner": "rauljordan",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866553951,
             "language": "Rust",
             "last_commit": "2024-10-12T13:30:31Z",
             "owner": "0xurb",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 796016662,
             "language": "Rust",
             "last_commit": "2025-02-09T16:24:17Z",
             "owner": "aroralanuk",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825949440,
             "language": "Rust",
             "last_commit": "2024-08-05T21:39:36Z",
             "owner": "transmissions11",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 801057193,
             "language": "Rust",
             "last_commit": "2025-06-13T12:09:57Z",
             "owner": "weaveVM",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859964286,
             "language": "Rust",
             "last_commit": "2025-06-02T14:22:50Z",
             "owner": "weaveVM",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950319079,
             "language": "Rust",
             "last_commit": "2025-03-20T23:51:55Z",
             "owner": "jmcph4",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 576773021,
             "language": "Rust",
             "last_commit": "2023-08-12T02:13:35Z",
             "owner": "Will-Smith11",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 698247040,
             "language": "Rust",
             "last_commit": "2024-02-03T16:17:03Z",
             "owner": "Keep-Reth-Strange",
@@ -291,7 +310,7 @@
       "title": "Crawlers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 782305231,
             "language": "Rust",
             "last_commit": "2026-08-05T07:48:29Z",
             "owner": "risechain",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 858286460,
             "language": "Rust",
             "last_commit": "2026-08-14T11:47:14Z",
             "owner": "SeismicSystems",
@@ -328,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 554756922,
             "language": "Rust",
             "last_commit": "2025-01-08T09:10:22Z",
             "owner": "kkrt-labs",
@@ -342,8 +364,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872324816,
             "language": "Rust",
-            "last_commit": "2026-08-05T08:58:47Z",
+            "last_commit": "2026-08-18T14:38:57Z",
             "owner": "Galxe",
             "repo": "grevm",
             "stars": 38
@@ -356,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911192305,
             "language": "Rust",
             "last_commit": "2025-01-05T17:25:37Z",
             "owner": "adizere",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 905423382,
             "language": "Rust",
             "last_commit": "2025-07-02T09:27:15Z",
             "owner": "lita-xyz",
@@ -384,24 +409,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 845617132,
             "language": "Rust",
             "last_commit": "2025-11-04T15:43:55Z",
             "owner": "SovaNetwork",
             "repo": "sova-reth",
             "stars": 1
           }
-        },
-        {
-          "node_type": "item",
-          "title": "sp1-reth",
-          "description": ", a zkEVM PoC by Succint Labs demonstrating transaction costs to the order of $0.01 USD atop Reth",
-          "children": []
         }
       ],
       "title": "Layer 2"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -410,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696102103,
             "language": "Rust",
             "last_commit": "2024-12-13T16:41:47Z",
             "owner": "ultrasoundmoney",
@@ -424,8 +445,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 897536804,
             "language": "Rust",
-            "last_commit": "2026-08-17T16:45:51Z",
+            "last_commit": "2026-08-18T22:02:38Z",
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17
@@ -436,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:17:00.774Z",
+    "last_updated": "2026-08-19T09:18:00.918Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
     "enhanced_repository": "enhansome/enhansome-reth",
