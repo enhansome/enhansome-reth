@@ -324,7 +324,7 @@
             "last_commit": "2026-08-05T07:48:29Z",
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 357
+            "stars": 356
           }
         },
         {
@@ -336,7 +336,7 @@
             "archived": false,
             "id": 858286460,
             "language": "Rust",
-            "last_commit": "2026-08-20T22:27:18Z",
+            "last_commit": "2026-08-21T22:33:21Z",
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 897536804,
             "language": "Rust",
-            "last_commit": "2026-08-21T00:39:55Z",
+            "last_commit": "2026-08-22T08:59:54Z",
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17
@@ -458,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:21:11.253Z",
+    "last_updated": "2026-08-22T09:12:54.027Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_id": 813926046,
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
