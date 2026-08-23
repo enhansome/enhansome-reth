@@ -447,7 +447,7 @@
             "archived": false,
             "id": 897536804,
             "language": "Rust",
-            "last_commit": "2026-08-22T08:59:54Z",
+            "last_commit": "2026-08-22T09:24:27Z",
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17
@@ -458,7 +458,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:12:54.027Z",
+    "last_updated": "2026-08-23T09:12:20.190Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_id": 813926046,
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
