@@ -310,6 +310,48 @@
       "title": "Crawlers"
     },
     {
+      "description": "An indexer (in the Ethereum context) takes data directly from the blockchain and produces alternative database schemas (typically relational) to allow enhanced and performant querying.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reth-indexer",
+          "description": ", an indexer that accesses Reth's database directly and indexes into various backends",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662167589,
+            "language": "Rust",
+            "last_commit": "2024-01-11T19:48:23Z",
+            "owner": "joshstevens19",
+            "repo": "reth-indexer",
+            "stars": 505
+          }
+        }
+      ],
+      "title": "Indexers"
+    },
+    {
+      "description": "Publications using or mentioning Reth.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Decentralization of Ethereum’s Builder Market",
+          "description": ", a paper due to Yang, et. al. that details the auction dynamics of MEV-Boost auctions and the subsequent structure current PBS pipeline (Tweet 1, Tweet 2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429165235,
+            "language": "Go",
+            "last_commit": "2026-06-30T14:02:06Z",
+            "owner": "flashbots",
+            "repo": "mev-boost",
+            "stars": 1437
+          }
+        }
+      ],
+      "title": "Research"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -336,7 +378,7 @@
             "archived": false,
             "id": 858286460,
             "language": "Rust",
-            "last_commit": "2026-08-21T22:33:21Z",
+            "last_commit": "2026-08-24T14:26:34Z",
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143
@@ -458,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:44.927Z",
+    "last_updated": "2026-08-24T14:43:03.181Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_id": 813926046,
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
