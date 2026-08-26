@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,749 | 🐛 215 | 🌐 Rust | 📅 2026-08-24
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,751 | 🐛 220 | 🌐 Rust | 📅 2026-08-26
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,749 | 🐛 215 | 🌐 Rust | 📅 2026-08-24
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,751 | 🐛 220 | 🌐 Rust | 📅 2026-08-26
 
 ## Development Tools
 
@@ -18,7 +18,7 @@
 
 ## MEV
 
-* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,219 | 🐛 88 | 🌐 Rust | 📅 2026-08-20's database directly from Reth's database
+* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,219 | 🐛 90 | 🌐 Rust | 📅 2026-08-26's database directly from Reth's database
 * [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2024-12-15, `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 * [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2024-10-20, retrieve CFMM pool state directly from Reth's database
 * [alloy-reth-provider](https://github.com/cakevm/alloy-reth-provider) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2025-07-16, retrieve state from a remote node via Alloy
@@ -30,7 +30,7 @@ An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is c
 * [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex) ⭐ 332 | 🐛 0 | 🌐 Rust | 📅 2025-07-26, an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) ⭐ 332 | 🐛 0 | 🌐 Rust | 📅 2025-07-26 project)
 * [reth-exex-examples](https://github.com/paradigmxyz/reth-exex-examples) ⭐ 164 | 🐛 13 | 🌐 Rust | 📅 2026-04-29, an official repository of example ExEx implementations
 * [shadow-reth](https://github.com/shadow-hq/shadow-reth) ⭐ 111 | 🐛 3 | 🌐 Rust | 📅 2024-12-16, an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an ExEx ([blog post](https://blog.shadow.xyz/shadow-reth))
-* [exex-indexer](https://github.com/gibz104/exex-indexer) ⭐ 32 | 🐛 0 | 🌐 Rust | 📅 2025-11-18, an ExEx providing blockchain indexing
+* [exex-indexer](https://github.com/gibz104/exex-indexer) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2025-11-18, an ExEx providing blockchain indexing
 * [flare](https://github.com/rauljordan/flare) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2024-05-05, an ExEx that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
 * [reth-exex-plugin](https://github.com/0xurb/reth-exex-plugin) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2024-10-12, an ExEx facilitating dynamic code injection via shared libraries
 * [hyperlane-exex](https://github.com/aroralanuk/hyperlane-exex) ⭐ 14 | 🐛 0 | 🌐 Rust | 📅 2025-02-09, a PoC [Hyperlane](https://www.hyperlane.xyz) validator built as an ExEx ([Tweet](https://x.com/aroralanuk/status/1787203558955233562))
@@ -90,8 +90,8 @@ Publications using or mentioning Reth.
 ## Miscellaneous
 
 * [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator) ⭐ 43 | 🐛 8 | 🌐 Rust | 📅 2024-12-13, a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
-* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 14 | 🌐 Rust | 📅 2026-08-22, a set of benchmarks for Reth within the OpenVM framework
+* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 13 | 🌐 Rust | 📅 2026-08-22, a set of benchmarks for Reth within the OpenVM framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

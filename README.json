@@ -162,7 +162,7 @@
             "last_commit": "2025-11-18T16:42:33Z",
             "owner": "gibz104",
             "repo": "Rethix",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:20:50.686Z",
+    "last_updated": "2026-08-26T09:26:25.679Z",
     "original_repository": "jmcph4/awesome-reth",
     "original_repository_id": 813926046,
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
