@@ -366,7 +366,7 @@
             "last_commit": "2026-08-05T07:48:29Z",
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 356
+            "stars": 357
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 858286460,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:02:38Z",
+            "last_commit": "2026-08-27T18:20:10Z",
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -500,7 +500,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:46.873Z",
+    "last_updated": "2026-08-27T19:16:40.119Z",
     "original_repository_info": {
       "archived": false,
       "id": 813926046,
