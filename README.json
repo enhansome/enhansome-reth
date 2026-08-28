@@ -16,7 +16,8 @@
             "owner": "SorellaLabs",
             "repo": "ethers-reth",
             "stars": 270
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "paradigmxyz",
             "repo": "alphanet",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Development Tools"
@@ -52,7 +54,8 @@
             "owner": "Zacholme7",
             "repo": "NodeDB",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Quertyy",
             "repo": "reth-private-transaction",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "cakevm",
             "repo": "rethdb-dexsync",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "cakevm",
             "repo": "alloy-reth-provider",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "MEV"
@@ -118,7 +124,8 @@
             "owner": "dexloom",
             "repo": "loom",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "paradigmxyz",
             "repo": "reth-exex-examples",
             "stars": 164
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "shadow-hq",
             "repo": "shadow-reth",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "gibz104",
             "repo": "Rethix",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "rauljordan",
             "repo": "flare",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "0xurb",
             "repo": "reth-exex-plugin",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "aroralanuk",
             "repo": "hyperlane-exex",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "transmissions11",
             "repo": "reth-exex-walltime",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "weaveVM",
             "repo": "wvm-reth",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "weaveVM",
             "repo": "exex-templates",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "jmcph4",
             "repo": "exex-nursery",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Execution Extensions (ExExes)"
@@ -289,7 +306,8 @@
             "owner": "Will-Smith11",
             "repo": "reconnaissance",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "Keep-Reth-Strange",
             "repo": "reth-crawler",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Crawlers"
@@ -325,7 +344,8 @@
             "owner": "joshstevens19",
             "repo": "reth-indexer",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Indexers"
@@ -346,7 +366,8 @@
             "owner": "flashbots",
             "repo": "mev-boost",
             "stars": 1437
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Research"
@@ -367,7 +388,8 @@
             "owner": "risechain",
             "repo": "pevm",
             "stars": 357
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -382,7 +404,8 @@
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "kkrt-labs",
             "repo": "kakarot-rpc",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "Galxe",
             "repo": "grevm",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -427,7 +452,8 @@
             "owner": "adizere",
             "repo": "rem-poc",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -442,7 +468,8 @@
             "owner": "lita-xyz",
             "repo": "reva",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -457,7 +484,8 @@
             "owner": "SovaNetwork",
             "repo": "sova-reth",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Layer 2"
@@ -478,7 +506,8 @@
             "owner": "ultrasoundmoney",
             "repo": "reth-payload-validator",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         },
         {
           "node_type": "item",
@@ -489,18 +518,19 @@
             "archived": false,
             "id": 897536804,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:25:39Z",
+            "last_commit": "2026-08-28T11:30:34Z",
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:26:06.495Z"
         }
       ],
       "title": "Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:40.119Z",
+    "last_updated": "2026-08-28T20:26:06.495Z",
     "original_repository_info": {
       "archived": false,
       "id": 813926046,
