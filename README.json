@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ether-rs middleware to access reth's db directly, bypassing JSON-RPC",
+            "homepage": null,
             "id": 640577736,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-10-18T18:44:41Z",
+            "open_issues": 2,
             "owner": "SorellaLabs",
             "repo": "ethers-reth",
-            "stars": 270
+            "stars": 270,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reth AlphaNet is a testnet OP Stack-compatible rollup aimed at enabling experimentation of bleeding edge Ethereum Research.",
+            "homepage": null,
             "id": 765376485,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-24T00:28:27Z",
+            "open_issues": 5,
             "owner": "paradigmxyz",
             "repo": "alphanet",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Revm DB that fetches latest state directly from Reth DB",
+            "homepage": null,
             "id": 875804525,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-05-26T01:12:00Z",
+            "open_issues": 0,
             "owner": "Zacholme7",
             "repo": "NodeDB",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -64,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 903566531,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-12-15T01:56:11Z",
+            "open_issues": 0,
             "owner": "Quertyy",
             "repo": "reth-private-transaction",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -80,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read dex state (e.g. Uniswap) from reth db",
+            "homepage": null,
             "id": 862201722,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-20T17:49:16Z",
+            "open_issues": 0,
             "owner": "cakevm",
             "repo": "rethdb-dexsync",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -96,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The BlockchainProvider but using RPC instead of DB",
+            "homepage": null,
             "id": 933143586,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-16T16:10:54Z",
+            "open_issues": 0,
             "owner": "cakevm",
             "repo": "alloy-reth-provider",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -118,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MEV Bot based on Alloy ",
+            "homepage": null,
             "id": 794569703,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-07-26T10:51:30Z",
+            "open_issues": 0,
             "owner": "dexloom",
             "repo": "loom",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -134,12 +169,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of ExEx examples built on Reth",
+            "homepage": "https://reth.rs/developers/exex/exex.html",
             "id": 819878351,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-29T14:33:23Z",
+            "open_issues": 13,
             "owner": "paradigmxyz",
             "repo": "reth-exex-examples",
-            "stars": 164
+            "stars": 164,
+            "topics": [
+              "blockchain",
+              "ethereum",
+              "example",
+              "modular",
+              "reth",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -150,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A single-node implementation of a Shadow RPC on top of Reth, utilizing ExEx and custom RPC methods.",
+            "homepage": "https://app.shadow.xyz",
             "id": 804428398,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-16T09:22:37Z",
+            "open_issues": 3,
             "owner": "shadow-hq",
             "repo": "shadow-reth",
-            "stars": 111
+            "stars": 111,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -166,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum indexer using Reth Execution Extensions (ExEx)",
+            "homepage": null,
             "id": 831892127,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-11-18T16:42:33Z",
+            "open_issues": 0,
             "owner": "gibz104",
             "repo": "Rethix",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -182,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Execution extension for reth to support indexing Arbitrum sequencer batches",
+            "homepage": null,
             "id": 796044443,
             "language": "Rust",
+            "license": null,
             "last_commit": "2024-05-05T22:43:39Z",
+            "open_issues": 0,
             "owner": "rauljordan",
             "repo": "flare",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -198,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Reth Execution Extension (ExEx) with shared object (.so / .dylib) plugins",
+            "homepage": null,
             "id": 866553951,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-10-12T13:30:31Z",
+            "open_issues": 0,
             "owner": "0xurb",
             "repo": "reth-exex-plugin",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -214,12 +281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PoC of a hyperlane validator built on top of reth",
+            "homepage": null,
             "id": 796016662,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-02-09T16:24:17Z",
+            "open_issues": 0,
             "owner": "aroralanuk",
             "repo": "hyperlane-exex",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -230,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wall time exex for reth",
+            "homepage": null,
             "id": 825949440,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-08-05T21:39:36Z",
+            "open_issues": 0,
             "owner": "transmissions11",
             "repo": "reth-exex-walltime",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -246,12 +323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+            "homepage": null,
             "id": 801057193,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-13T12:09:57Z",
+            "open_issues": 0,
             "owner": "weaveVM",
             "repo": "wvm-reth",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -262,12 +344,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ExEx templates by WeaveVM",
+            "homepage": "https://docs.wvm.dev/weavevm-exex/weavevm-exexes",
             "id": 859964286,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-06-02T14:22:50Z",
+            "open_issues": 0,
             "owner": "weaveVM",
             "repo": "exex-templates",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "exex",
+              "reth"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -278,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 950319079,
             "language": "Rust",
+            "license": null,
             "last_commit": "2025-03-20T23:51:55Z",
+            "open_issues": 0,
             "owner": "jmcph4",
             "repo": "exex-nursery",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -300,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A proxy node example using Reth!",
+            "homepage": null,
             "id": 576773021,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-08-12T02:13:35Z",
+            "open_issues": 0,
             "owner": "Will-Smith11",
             "repo": "reconnaissance",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -316,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reth crawler",
+            "homepage": "https://etherclients.com/",
             "id": 698247040,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-03T16:17:03Z",
+            "open_issues": 6,
             "owner": "Keep-Reth-Strange",
             "repo": "reth-crawler",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -338,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reth-indexer reads directly from the reth db and indexes the data into traditional and alternative databases / datastores (postgres, GCP bigquery, etc) all decoded with a simple config file and no extra setup alongside exposing a API ready to query the data.",
+            "homepage": null,
             "id": 662167589,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-01-11T19:48:23Z",
+            "open_issues": 15,
             "owner": "joshstevens19",
             "repo": "reth-indexer",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -360,12 +470,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MEV-Boost allows Ethereum validators to source high-MEV blocks from a competitive builder marketplace",
+            "homepage": "https://boost.flashbots.net",
             "id": 429165235,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-30T14:02:06Z",
+            "open_issues": 87,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1437
+            "stars": 1438,
+            "topics": [
+              "ethereum",
+              "mev",
+              "mev-boost"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -382,12 +501,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ultimate Parallel EVM Engine: Transaction Execution, State Root Calculation, Shred Broadcasting. All in One and at Once!",
+            "homepage": null,
             "id": 782305231,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-05T07:48:29Z",
+            "open_issues": 67,
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -398,12 +522,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Execution client for Seismic",
+            "homepage": "https://seismic.systems",
             "id": 858286460,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T18:20:10Z",
+            "open_issues": 54,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
-            "stars": 144
+            "stars": 143,
+            "topics": [
+              "cryptocurrency",
+              "encryption",
+              "reth",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -414,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kakarot ZK EVM Ethereum RPC adapter",
+            "homepage": null,
             "id": 554756922,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-01-08T09:10:22Z",
+            "open_issues": 29,
             "owner": "kkrt-labs",
             "repo": "kakarot-rpc",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -430,12 +569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel EVM inspired by BlockSTM",
+            "homepage": "https://docs.gravity.xyz/research/grevm",
             "id": 872324816,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:38:57Z",
+            "open_issues": 8,
             "owner": "Galxe",
             "repo": "grevm",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "evm",
+              "parallel-evm",
+              "reth"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -446,12 +594,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "{{{ rem = reth + malachite }}} {{{ proof of concept }}}",
+            "homepage": null,
             "id": 911192305,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-05T17:25:37Z",
+            "open_issues": 0,
             "owner": "adizere",
             "repo": "rem-poc",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "malachite-engine"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -462,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimal implementation of ZKPs of Ethereum block execution using Reth. Supports both Ethereum and OP Stack.",
+            "homepage": null,
             "id": 905423382,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-02T09:27:15Z",
+            "open_issues": 3,
             "owner": "lita-xyz",
             "repo": "reva",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -478,12 +638,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An EVM execution client designed to interact with Bitcoin",
+            "homepage": "https://www.sova.io/",
             "id": 845617132,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-04T15:43:55Z",
+            "open_issues": 1,
             "owner": "SovaNetwork",
             "repo": "sova-reth",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "evm",
+              "reth"
+            ]
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -500,12 +670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reth rpc api extension to enable block validation",
+            "homepage": null,
             "id": 696102103,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-12-13T16:41:47Z",
+            "open_issues": 8,
             "owner": "ultrasoundmoney",
             "repo": "reth-payload-validator",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         },
@@ -516,12 +691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 897536804,
             "language": "Rust",
-            "last_commit": "2026-08-28T11:30:34Z",
+            "license": null,
+            "last_commit": "2026-08-28T21:40:22Z",
+            "open_issues": 13,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
         }
@@ -530,15 +710,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:06.495Z",
+    "last_updated": "2026-08-29T04:55:51.476Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome Reth-related resources",
+      "homepage": null,
       "id": 813926046,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2025-04-02T02:46:41Z",
+      "open_issues": 1,
       "owner": "jmcph4",
       "repo": "awesome-reth",
-      "stars": 120
+      "stars": 120,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "blockchain",
+        "blockchain-technology",
+        "ethereum",
+        "ethereum-client",
+        "execution-layer",
+        "reth",
+        "rust",
+        "rust-ethereum"
+      ]
     },
     "original_repository_sha": "1ac68472ebf64c671389ffd639a992de17eaeab5",
     "enhanced_repository": "enhansome/enhansome-reth",
