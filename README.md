@@ -90,7 +90,7 @@ Publications using or mentioning Reth.
 ## Miscellaneous
 
 * [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator) ⭐ 43 | 🐛 8 | 🌐 Rust | 📅 2024-12-13, a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
-* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 13 | 🌐 Rust | 📅 2026-08-28, a set of benchmarks for Reth within the OpenVM framework
+* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 13 | 🌐 Rust | 📅 2026-08-29, a set of benchmarks for Reth within the OpenVM framework
 
 ***
 
