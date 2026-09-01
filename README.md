@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,758 | 🐛 227 | 🌐 Rust | 📅 2026-08-31
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,761 | 🐛 225 | 🌐 Rust | 📅 2026-09-01
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,758 | 🐛 227 | 🌐 Rust | 📅 2026-08-31
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,761 | 🐛 225 | 🌐 Rust | 📅 2026-09-01
 
 ## Development Tools
 
@@ -18,7 +18,7 @@
 
 ## MEV
 
-* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,221 | 🐛 90 | 🌐 Rust | 📅 2026-08-28's database directly from Reth's database
+* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 43 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,223 | 🐛 90 | 🌐 Rust | 📅 2026-08-28's database directly from Reth's database
 * [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2024-12-15, `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 * [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2024-10-20, retrieve CFMM pool state directly from Reth's database
 * [alloy-reth-provider](https://github.com/cakevm/alloy-reth-provider) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2025-07-16, retrieve state from a remote node via Alloy
@@ -28,7 +28,7 @@
 An [Execution Extension (ExEx)](https://www.paradigm.xyz/2024/05/reth-exex) is code that runs in-process with Reth that has access to *reorg-aware* chain state. Consult [the official documentation](https://reth.rs/developers/exex/exex.html) for more details.
 
 * [loom-exex](https://github.com/dexloom/loom/tree/main/bin/loom_exex) ⭐ 332 | 🐛 0 | 🌐 Rust | 📅 2025-07-26, an ExEx for backrunning (part of the larger [loom](https://github.com/dexloom/loom) ⭐ 332 | 🐛 0 | 🌐 Rust | 📅 2025-07-26 project)
-* [reth-exex-examples](https://github.com/paradigmxyz/reth-exex-examples) ⭐ 164 | 🐛 13 | 🌐 Rust | 📅 2026-04-29, an official repository of example ExEx implementations
+* [reth-exex-examples](https://github.com/paradigmxyz/reth-exex-examples) ⭐ 165 | 🐛 13 | 🌐 Rust | 📅 2026-04-29, an official repository of example ExEx implementations
 * [shadow-reth](https://github.com/shadow-hq/shadow-reth) ⭐ 111 | 🐛 3 | 🌐 Rust | 📅 2024-12-16, an implementation of the [Shadow RPC](https://docs.shadow.xyz/product-guide/shadow-rpc) as an ExEx ([blog post](https://blog.shadow.xyz/shadow-reth))
 * [exex-indexer](https://github.com/gibz104/exex-indexer) ⭐ 33 | 🐛 0 | 🌐 Rust | 📅 2025-11-18, an ExEx providing blockchain indexing
 * [flare](https://github.com/rauljordan/flare) ⭐ 19 | 🐛 0 | 🌐 Rust | 📅 2024-05-05, an ExEx that indexes [Arbitrum](https://arbitrum.io) sequencer batches ([Tweet](https://mobile.x.com/rauljordaneth/status/1787252292250485231))
@@ -51,13 +51,13 @@ A crawler (in the Ethereum context) is a program that indexes and gathers variou
 
 An indexer (in the Ethereum context) takes data directly from the blockchain and produces alternative database schemas (typically relational) to allow enhanced and performant querying.
 
-* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 505 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
+* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 506 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
 
 ## Research
 
 Publications using or mentioning Reth.
 
-* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,438 | 🐛 87 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
+* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,438 | 🐛 86 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
 * [Diving into the Reth p2p stack](https://research.chainbound.io/diving-into-the-reth-p2p-stack), a blog post by [Chainbound](https://chainbound.io) that details the Reth P2P stack.
 
@@ -94,4 +94,4 @@ Publications using or mentioning Reth.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
