@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "Zacholme7",
             "repo": "NodeDB",
-            "stars": 43,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -527,7 +527,7 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T18:20:10Z",
+            "last_commit": "2026-09-02T12:57:13Z",
             "open_issues": 56,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:43:00.585Z",
+    "last_updated": "2026-09-02T12:59:39.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
