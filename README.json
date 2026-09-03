@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "dexloom",
             "repo": "loom",
-            "stars": 332,
+            "stars": 331,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "gibz104",
             "repo": "Rethix",
-            "stars": 33,
+            "stars": 34,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -479,7 +479,7 @@
             "open_issues": 86,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "ethereum",
               "mev",
@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T12:57:13Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-03T11:17:16Z",
+            "open_issues": 55,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143,
@@ -696,8 +696,8 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-08-29T16:56:49Z",
-            "open_issues": 13,
+            "last_commit": "2026-09-03T04:58:54Z",
+            "open_issues": 12,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:59:39.084Z",
+    "last_updated": "2026-09-03T13:01:39.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
