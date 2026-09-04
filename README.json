@@ -476,7 +476,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-06-30T14:02:06Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "flashbots",
             "repo": "mev-boost",
             "stars": 1439,
@@ -510,7 +510,7 @@
             "open_issues": 73,
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 357,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -696,7 +696,7 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-03T04:58:54Z",
+            "last_commit": "2026-09-04T01:09:09Z",
             "open_issues": 12,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:01:39.602Z",
+    "last_updated": "2026-09-04T12:57:08.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
