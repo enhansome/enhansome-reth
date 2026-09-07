@@ -178,7 +178,7 @@
             "open_issues": 13,
             "owner": "paradigmxyz",
             "repo": "reth-exex-examples",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "blockchain",
               "ethereum",
@@ -452,7 +452,7 @@
             "open_issues": 15,
             "owner": "joshstevens19",
             "repo": "reth-indexer",
-            "stars": 506,
+            "stars": 507,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -507,7 +507,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-05T07:48:29Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "risechain",
             "repo": "pevm",
             "stars": 356,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:21:53.989Z",
+    "last_updated": "2026-09-07T14:29:11.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
