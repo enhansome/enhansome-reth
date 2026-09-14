@@ -452,7 +452,7 @@
             "open_issues": 15,
             "owner": "joshstevens19",
             "repo": "reth-indexer",
-            "stars": 507,
+            "stars": 506,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:29:15.325Z",
+    "last_updated": "2026-09-14T15:16:42.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
