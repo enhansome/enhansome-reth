@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T11:18:56Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-18T12:43:24Z",
+            "open_issues": 59,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143,
@@ -696,8 +696,8 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-15T21:47:36Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-17T19:38:06Z",
+            "open_issues": 11,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:48:36.741Z",
+    "last_updated": "2026-09-18T13:10:57.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
