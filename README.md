@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,778 | 🐛 281 | 🌐 Rust | 📅 2026-09-19
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,780 | 🐛 292 | 🌐 Rust | 📅 2026-09-20
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,778 | 🐛 281 | 🌐 Rust | 📅 2026-09-19
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,780 | 🐛 292 | 🌐 Rust | 📅 2026-09-20
 
 ## Development Tools
 
@@ -18,7 +18,7 @@
 
 ## MEV
 
-* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 46 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,240 | 🐛 95 | 🌐 Rust | 📅 2026-09-18's database directly from Reth's database
+* [NodeDB](https://github.com/Zacholme7/NodeDB) ⭐ 46 | 🐛 0 | 🌐 Rust | 📅 2025-05-26, updates [revm](https://github.com/bluealloy/revm) ⭐ 2,241 | 🐛 102 | 🌐 Rust | 📅 2026-09-18's database directly from Reth's database
 * [reth-private-transaction](https://github.com/Quertyy/reth-private-transaction) ⭐ 40 | 🐛 0 | 🌐 Rust | 📅 2024-12-15, `eth_sendPrivateRawTransaction` implementation that punches straight through to the top three block builders
 * [rethdb-dexsync](https://github.com/cakevm/rethdb-dexsync) ⭐ 29 | 🐛 0 | 🌐 Rust | 📅 2024-10-20, retrieve CFMM pool state directly from Reth's database
 * [alloy-reth-provider](https://github.com/cakevm/alloy-reth-provider) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2025-07-16, retrieve state from a remote node via Alloy
@@ -51,7 +51,7 @@ A crawler (in the Ethereum context) is a program that indexes and gathers variou
 
 An indexer (in the Ethereum context) takes data directly from the blockchain and produces alternative database schemas (typically relational) to allow enhanced and performant querying.
 
-* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 506 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
+* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 507 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
 
 ## Research
 
@@ -94,4 +94,4 @@ Publications using or mentioning Reth.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
