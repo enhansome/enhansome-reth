@@ -178,7 +178,7 @@
             "open_issues": 13,
             "owner": "paradigmxyz",
             "repo": "reth-exex-examples",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "blockchain",
               "ethereum",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:49:49.971Z",
+    "last_updated": "2026-09-25T14:12:12.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
