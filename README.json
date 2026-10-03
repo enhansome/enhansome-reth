@@ -479,7 +479,7 @@
             "open_issues": 89,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1448,
+            "stars": 1449,
             "topics": [
               "ethereum",
               "mev",
@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T11:13:23Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-02T21:50:52Z",
+            "open_issues": 52,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:04:41.403Z",
+    "last_updated": "2026-10-03T05:05:07.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
