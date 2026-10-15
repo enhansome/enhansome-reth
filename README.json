@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T17:59:34Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-15T11:13:59Z",
+            "open_issues": 51,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 144,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:05:18.668Z",
+    "last_updated": "2026-10-15T13:43:33.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
