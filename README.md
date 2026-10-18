@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,833 | 🐛 250 | 🌐 Rust | 📅 2026-10-17
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,835 | 🐛 253 | 🌐 Rust | 📅 2026-10-18
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,833 | 🐛 250 | 🌐 Rust | 📅 2026-10-17
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,835 | 🐛 253 | 🌐 Rust | 📅 2026-10-18
 
 ## Development Tools
 
@@ -67,7 +67,7 @@ Publications using or mentioning Reth.
 * [seismic-reth](https://github.com/SeismicSystems/seismic-reth) ⭐ 144 | 🐛 51 | 🌐 Rust | 📅 2026-10-16, node software for [Seismic](https://www.seismic.systems), the encrypted blockchain
 * [Kakarot zkEVM](https://github.com/kkrt-labs/kakarot-rpc) ⚠️ Archived, a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth
 * [grevm](https://github.com/Galxe/grevm) ⭐ 38 | 🐛 8 | 🌐 Rust | 📅 2026-08-18, parallel EVM runtime based on BlockSTM
-* [rem-poc](https://github.com/adizere/rem-poc) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2025-01-05, an integration with the [Malachite](https://github.com/informalsystems/malachite) ⭐ 10 | 🐛 12 | 🌐 Rust | 📅 2025-11-26 BFT consensus engine
+* [rem-poc](https://github.com/adizere/rem-poc) ⭐ 20 | 🐛 0 | 🌐 Rust | 📅 2025-01-05, an integration with the [Malachite](https://github.com/informalsystems/malachite) ⭐ 11 | 🐛 12 | 🌐 Rust | 📅 2025-11-26 BFT consensus engine
 * [reva](https://github.com/lita-xyz/reva) ⭐ 13 | 🐛 3 | 🌐 Rust | 📅 2025-07-02, minimal ZKP execution in Reth
 * [sova-reth](https://github.com/SovaNetwork/sova-reth) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2025-11-04, Reth but for Bitcoin
 * [sp1-reth](https://github.com/succinctlabs/sp1-reth), a zkEVM PoC by [Succint Labs](https://succinct.xyz) demonstrating transaction costs to the order of $0.01 USD atop Reth
@@ -94,4 +94,4 @@ Publications using or mentioning Reth.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
