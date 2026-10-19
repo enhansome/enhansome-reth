@@ -479,7 +479,7 @@
             "open_issues": 90,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "ethereum",
               "mev",
@@ -696,8 +696,8 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-17T07:15:24Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-19T09:02:32Z",
+            "open_issues": 8,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
             "stars": 17,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:48:33.031Z",
+    "last_updated": "2026-10-19T15:53:55.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
