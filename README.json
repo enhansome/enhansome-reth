@@ -174,8 +174,8 @@
             "id": 819878351,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-04-29T14:33:23Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-20T19:05:59Z",
+            "open_issues": 14,
             "owner": "paradigmxyz",
             "repo": "reth-exex-examples",
             "stars": 167,
@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T11:16:04Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-20T17:21:43Z",
+            "open_issues": 52,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 144,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:52:34.949Z",
+    "last_updated": "2026-10-21T14:09:46.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
