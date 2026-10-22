@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "dexloom",
             "repo": "loom",
-            "stars": 330,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -527,7 +527,7 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T17:21:43Z",
+            "last_commit": "2026-10-22T11:15:38Z",
             "open_issues": 52,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:09:46.208Z",
+    "last_updated": "2026-10-22T14:07:56.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
