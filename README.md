@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,842 | 🐛 256 | 🌐 Rust | 📅 2026-10-24
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,843 | 🐛 254 | 🌐 Rust | 📅 2026-10-25
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,842 | 🐛 256 | 🌐 Rust | 📅 2026-10-24
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,843 | 🐛 254 | 🌐 Rust | 📅 2026-10-25
 
 ## Development Tools
 
@@ -63,7 +63,7 @@ Publications using or mentioning Reth.
 
 ## Layer 2
 
-* [pevm](https://github.com/risechain/pevm) ⭐ 355 | 🐛 83 | 🌐 Rust | 📅 2026-08-05, a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
+* [pevm](https://github.com/risechain/pevm) ⭐ 356 | 🐛 83 | 🌐 Rust | 📅 2026-08-05, a massively-parallelised EVM implementation by [RISE Labs](https://www.riselabs.xyz) that is explicitly compatible with Reth ([blog post](https://medium.com/@rise_chain/rise-pevm-parallel-evm-bdfc4bc9f38e), [Tweet](https://x.com/gakonst/status/1798165192460976195))
 * [seismic-reth](https://github.com/SeismicSystems/seismic-reth) ⭐ 144 | 🐛 51 | 🌐 Rust | 📅 2026-10-23, node software for [Seismic](https://www.seismic.systems), the encrypted blockchain
 * [Kakarot zkEVM](https://github.com/kkrt-labs/kakarot-rpc) ⚠️ Archived, a zkEVM built in Cairo (provable by design) for which the RPC component is constructed using Reth
 * [grevm](https://github.com/Galxe/grevm) ⭐ 38 | 🐛 8 | 🌐 Rust | 📅 2026-08-18, parallel EVM runtime based on BlockSTM
@@ -94,4 +94,4 @@ Publications using or mentioning Reth.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

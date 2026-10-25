@@ -510,7 +510,7 @@
             "open_issues": 83,
             "owner": "risechain",
             "repo": "pevm",
-            "stars": 355,
+            "stars": 356,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:57:00.717Z",
+    "last_updated": "2026-10-25T13:23:27.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
