@@ -476,7 +476,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-06-30T14:02:06Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "flashbots",
             "repo": "mev-boost",
             "stars": 1448,
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:52:20.233Z",
+    "last_updated": "2026-11-03T16:38:21.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",

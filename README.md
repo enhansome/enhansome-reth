@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,846 | 🐛 257 | 🌐 Rust | 📅 2026-11-02
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,847 | 🐛 262 | 🌐 Rust | 📅 2026-11-03
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,846 | 🐛 257 | 🌐 Rust | 📅 2026-11-02
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,847 | 🐛 262 | 🌐 Rust | 📅 2026-11-03
 
 ## Development Tools
 
@@ -57,7 +57,7 @@ An indexer (in the Ethereum context) takes data directly from the blockchain and
 
 Publications using or mentioning Reth.
 
-* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,448 | 🐛 91 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
+* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,448 | 🐛 92 | 🌐 Go | 📅 2026-06-30 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
 * [Diving into the Reth p2p stack](https://research.chainbound.io/diving-into-the-reth-p2p-stack), a blog post by [Chainbound](https://chainbound.io) that details the Reth P2P stack.
 
@@ -94,4 +94,4 @@ Publications using or mentioning Reth.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
