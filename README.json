@@ -476,10 +476,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-06-30T14:02:06Z",
-            "open_issues": 92,
+            "open_issues": 93,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1451,
+            "stars": 1455,
             "topics": [
               "ethereum",
               "mev",
@@ -527,8 +527,8 @@
             "id": 858286460,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T15:38:16Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-06T15:30:43Z",
+            "open_issues": 52,
             "owner": "SeismicSystems",
             "repo": "seismic-reth",
             "stars": 143,
@@ -696,7 +696,7 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-03T21:31:56Z",
+            "last_commit": "2026-11-04T18:00:37Z",
             "open_issues": 11,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:37:29.810Z",
+    "last_updated": "2026-11-06T16:20:07.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
