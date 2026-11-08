@@ -206,7 +206,7 @@
             "open_issues": 3,
             "owner": "shadow-hq",
             "repo": "shadow-reth",
-            "stars": 111,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:13:50.809Z",
+    "last_updated": "2026-11-08T15:36:58.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
