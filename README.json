@@ -479,7 +479,7 @@
             "open_issues": 93,
             "owner": "flashbots",
             "repo": "mev-boost",
-            "stars": 1458,
+            "stars": 1455,
             "topics": [
               "ethereum",
               "mev",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:46:48.241Z",
+    "last_updated": "2026-11-14T15:22:12.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
