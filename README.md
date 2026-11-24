@@ -2,14 +2,14 @@
 
 **A list of awesome Reth-related resources**.
 
-* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,864 | 🐛 282 | 🌐 Rust | 📅 2026-11-23
+* [Repository](https://github.com/paradigmxyz/reth) ⭐ 5,865 | 🐛 279 | 🌐 Rust | 📅 2026-11-24
 * [User Book](https://reth.rs)
 
 [Follow me](https://twitter.com/secjack_) for live updates as I usually retweet whatever I find. Alternatively, feel free to contribute to this list by opening a PR!
 
 ## Audits
 
-* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,864 | 🐛 282 | 🌐 Rust | 📅 2026-11-23
+* [Sigma Prime](https://github.com/paradigmxyz/reth/blob/0a49d47dc33058cafe5d3decfce85a3a81de62f9/Sigma_Prime_Paradigm_Reth_Security_Assessment_Report_v1_0.pdf) ⭐ 5,865 | 🐛 279 | 🌐 Rust | 📅 2026-11-24
 
 ## Development Tools
 
@@ -51,13 +51,13 @@ A crawler (in the Ethereum context) is a program that indexes and gathers variou
 
 An indexer (in the Ethereum context) takes data directly from the blockchain and produces alternative database schemas (typically relational) to allow enhanced and performant querying.
 
-* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 507 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
+* [reth-indexer](https://github.com/joshstevens19/reth-indexer) ⭐ 508 | 🐛 15 | 🌐 Rust | 📅 2024-01-11, an indexer that accesses Reth's database directly and indexes into various backends
 
 ## Research
 
 Publications using or mentioning Reth.
 
-* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,455 | 🐛 92 | 🌐 Go | 📅 2026-11-14 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
+* [Decentralization of Ethereum’s Builder Market](https://arxiv.org/pdf/2405.01329), a paper due to Yang, et. al. that details the auction dynamics of [MEV-Boost](https://github.com/flashbots/mev-boost) ⭐ 1,453 | 🐛 92 | 🌐 Go | 📅 2026-11-14 auctions and the subsequent structure current PBS pipeline ([Tweet 1](https://x.com/gakonst/status/1787802487753154862), [Tweet 2](https://x.com/kartik1507/status/1791485547589857753))
 
 * [Diving into the Reth p2p stack](https://research.chainbound.io/diving-into-the-reth-p2p-stack), a blog post by [Chainbound](https://chainbound.io) that details the Reth P2P stack.
 
@@ -90,8 +90,8 @@ Publications using or mentioning Reth.
 ## Miscellaneous
 
 * [reth-payload-validator](https://github.com/ultrasoundmoney/reth-payload-validator) ⭐ 43 | 🐛 8 | 🌐 Rust | 📅 2024-12-13, a RPC extension of Reth by the [Ultra Sound Money relay](https://ultrasound.money) that implements rapid block validation of builder submissions
-* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 12 | 🌐 Rust | 📅 2026-11-23, a set of benchmarks for Reth within the OpenVM framework
+* [openvm-reth-benchmark](https://github.com/axiom-crypto/openvm-reth-benchmark) ⭐ 17 | 🐛 13 | 🌐 Rust | 📅 2026-11-24, a set of benchmarks for Reth within the OpenVM framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
