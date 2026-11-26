@@ -67,7 +67,7 @@
             "open_issues": 0,
             "owner": "Zacholme7",
             "repo": "NodeDB",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:06.495Z"
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:51:31.530Z",
+    "last_updated": "2026-11-26T18:40:08.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
