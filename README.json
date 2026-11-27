@@ -696,7 +696,7 @@
             "id": 897536804,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-25T12:50:32Z",
+            "last_commit": "2026-11-27T14:15:20Z",
             "open_issues": 13,
             "owner": "axiom-crypto",
             "repo": "openvm-eth",
@@ -710,7 +710,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:40:08.418Z",
+    "last_updated": "2026-11-27T18:30:08.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome Reth-related resources",
